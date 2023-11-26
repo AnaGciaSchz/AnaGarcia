@@ -1,8 +1,13 @@
 ---
 title: Starting to post
 description: Some thoughts about posting online as a women
-date: 2023-11-06 10:00:00+0000
+date: "2023-11-06"
 image: cover.jpg
+categories:
+    - Personal experiences
+tags:
+    - woman
+    - personal opinion
 ---
 
 I remember the day they came to give us the road safety talk at the institute. A man in a wheelchair came to speak to us and said a phrase that touched me very deeply. "I had a car accident. That's why I'm like this now. I saw accidents happen when I was young, but I never thought it would happen to me. I always thought these things only happened to the rest."
