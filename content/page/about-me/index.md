@@ -5,7 +5,7 @@ description: A section where I talk more about me and my experience
 lastmod: '2023-12-07'
 menu:
     main:
-        weight: 3
+        weight: 4
         params: 
             icon: user
 ---
