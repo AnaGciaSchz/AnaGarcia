@@ -7,8 +7,7 @@ categories:
     - Personal experiences
     - Tools
 tags:
-    - social media
-    - fediverse
+    - privacy
     - personal opinion
 ---
 
