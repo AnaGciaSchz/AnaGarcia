@@ -36,3 +36,5 @@ Get ready for an evening of tech talk, inspiration, and a surprise or two. See y
 -----
 
 > Original post on LinkedIn [here](https://www.linkedin.com/posts/anagciaschz_shuttlecon-techtalks-activity-7129798203264094209-GEY0?utm_source=share&utm_medium=member_desktop)
+
+> ShuttleCon branding by [Pablo González Armengol](https://www.linkedin.com/in/pablo-armengol/)
