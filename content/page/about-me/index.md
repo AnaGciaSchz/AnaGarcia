@@ -18,7 +18,11 @@ This page is the 'About me' section, so if you want to know more about me, this 
 
 <h3>Introduction</h3>
 
-I'm 24 years old, but despite being young, I have worked in tech for almost three years. I enjoy being a Software Engineer and designing systems, but I also love speaking in public and writing on social media, so I always try to balance those two sides of me.
+I am 24 years old, and I am proud of navigating the tech industry for nearly three years. 
+
+As a passionate Software Engineer, I enjoy designing complex and innovative systems while learning new technologies and ways of working.
+
+Beyond that, I enjoy public speaking and social media writing, skillfully balancing both facets of my personality. That's why I wanted my page to have a blog section!
 
 <h3>Where I'm from</h3>
 
