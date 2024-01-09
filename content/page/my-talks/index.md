@@ -39,3 +39,17 @@ On this talk I explain how to solve a problem using a DSL. I also introduce the 
 You can see my talk at 1:08:36
 
 {{< youtube BfuziKnXfk8 >}}
+
+<h3>Ethics, Data, Experiences - Bridging the gap between innovation and responsibility</h3>
+
+I participated in the Ethics in eCommerce Summit in London 2023 - May 16th.
+
+Ramiro Álvarez, Andreas Wagemann and I prepared this short talk, and it was a fun challenge to work with people with different backgrounds than me!
+
+<h4>Description</h4>
+
+We claim that there is a gap between technical curiosity and ethical boundaries. Technically and intellectually, using statistical models to infer human behaviour poses interesting challenges. They can provide insightful inferences, and the fast-paced development leads to rapid increase in use-cases. 
+
+<h4>Recording</h4>
+
+You can see the recording on the [ECA Summit page](https://www.ethicalalliance.co/conference-speakers/ana-garcia)
