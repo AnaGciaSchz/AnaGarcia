@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Privacy on Ana García's Space</title><link>https://anuskuskus.me/tags/privacy/</link><description>Recent content in Privacy on Ana García's Space</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Mon, 20 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://anuskuskus.me/tags/privacy/index.xml" rel="self" type="application/rss+xml"/><item><title>Discovering Fediverse</title><link>https://anuskuskus.me/p/discovering-fediverse/</link><pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate><guid>https://anuskuskus.me/p/discovering-fediverse/</guid><description>&lt;img src="https://anuskuskus.me/p/discovering-fediverse/cover.jpg" alt="Featured image of post Discovering Fediverse" />&lt;p>Life becomes more interesting when you have friends like &lt;a class="link" href="https://www.linkedin.com/in/christianpefer/" target="_blank" rel="noopener"
+>Christian Peláez&lt;/a>, who casually starts a conversation inviting you to participate in a decentralized project for fun.&lt;/p>
+&lt;p>Why? Because, as many people, when he entered his Instagram account some days ago, he was prompted with the message that you can prevent Meta from using your data for ads&amp;hellip; if you pay.&lt;/p>
+&lt;p>I&amp;rsquo;m not going to share my opinion, at least for now, but it is similar to the one Christian had when he deleted the app and decided to learn more about the Fediverse and try it with friends (&lt;a class="link" href="https://www.linkedin.com/in/sonia-garc%C3%ADa-lavandera-30634b206/" target="_blank" rel="noopener"
+>Sonia García&lt;/a> and &lt;a class="link" href="https://www.linkedin.com/in/daniferna/" target="_blank" rel="noopener"
+>Daniel Fernández&lt;/a> too!).&lt;/p>
+&lt;p>What is the Fediverse? What does decentralization mean? To explain it, it is easier if you know Mastodon, one of the social media alternatives people found when Elon Musk bought Twitter, and the world seemed to end.&lt;/p>
+&lt;p>Mastodon is a decentralized alternative for microblogging (like Twitter). It is decentralized the same way as e-mail is. Anyone can sign up on any server, talk to other users (in the same server or another), and even have their own server deployed at home. The data is not centralized in servers from just one company; anyone can control their data.&lt;/p>
+&lt;p>Federation is a form of decentralization. And the Fediverse is a set of federated social networks (Federated + Universe). But they also have another thing in common: they use the same open protocol to communicate with the servers and clients.&lt;/p>
+&lt;p>What does it mean? They can be connected. And they can interact between them.&lt;/p>
+&lt;p>The Fediverse is massive. Their technology is better than the centralized ones because their code is free (as in freedom), so anybody can see it and add features. That&amp;rsquo;s why Mastodon lets you have custom emojis, thumbnail crop control, and the much-loved animated avatars Twitter had years ago.&lt;/p>
+&lt;p>&lt;img src="https://anuskuskus.me/p/discovering-fediverse/1.jpg"
+width="800"
+height="434"
+srcset="https://anuskuskus.me/p/discovering-fediverse/1_hu2090675051368929551.jpg 480w, https://anuskuskus.me/p/discovering-fediverse/1_hu15794150786649596467.jpg 1024w"
+loading="lazy"
+alt="Fediverse Party image of decentralized social media"
+class="gallery-image"
+data-flex-grow="184"
+data-flex-basis="442px"
+>&lt;/p>
+&lt;p>So feel free to try new social media and take control over your data, or create a new project to add to the Fediverse. I&amp;rsquo;ll leave here some alternatives you can check ;)&lt;/p>
+&lt;ul>
+&lt;li>Decentralized communication (Like Discord or Slack): &lt;a class="link" href="https://matrix.org/" target="_blank" rel="noopener"
+>Matrix&lt;/a>&lt;/li>
+&lt;li>Federated image-sharing platform (Like Instagram): &lt;a class="link" href="https://pixelfed.org/" target="_blank" rel="noopener"
+>Pixelfed&lt;/a>&lt;/li>
+&lt;li>Alternative to big tech video platforms (Like YouTube): &lt;a class="link" href="https://joinpeertube.org/en" target="_blank" rel="noopener"
+>PeerTube&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://joinmastodon.org/" target="_blank" rel="noopener"
+>Mastodon&lt;/a> (of course)&lt;/li>
+&lt;li>Social platform to enjoy and share music: &lt;a class="link" href="https://www.funkwhale.audio/" target="_blank" rel="noopener"
+>Funkwhale&lt;/a>&lt;/li>
+&lt;li>More in &lt;a class="link" href="https://fediverse.party/" target="_blank" rel="noopener"
+>FediverseParty&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;blockquote>
+&lt;p>Original post on LinkedIn &lt;a class="link" href="https://www.linkedin.com/posts/anagciaschz_fediverse-decentralization-socialmedia-activity-7132344425447370753-Sp5g?utm_source=share&amp;amp;utm_medium=member_desktop" target="_blank" rel="noopener"
+>here&lt;/a>&lt;/p>
+&lt;/blockquote></description></item><item><title>DPO Daily Challenges, Solutions for Success</title><link>https://anuskuskus.me/p/dpo-daily-challenges-solutions-for-success/</link><pubDate>Wed, 25 Oct 2023 00:00:00 +0000</pubDate><guid>https://anuskuskus.me/p/dpo-daily-challenges-solutions-for-success/</guid><description>&lt;img src="https://anuskuskus.me/p/dpo-daily-challenges-solutions-for-success/cover.jpg" alt="Featured image of post DPO Daily Challenges, Solutions for Success" />&lt;p>The mission of a Data Protection Officer (DPO) revolves around ensuring that the organisation processes the personal data of its staff, customers, providers or any other individuals in compliance with the applicable data protection rules.&lt;/p>
+&lt;p>This responsibility requires a deep understanding of the organisation’s operations, so communication with the different teams is critical but also challenging.&lt;/p>
+&lt;p>&lt;strong>DPOs often find themselves uninvolved in product updates and are told late about them&lt;/strong>. It leads to quick adjustments to Privacy notices, incorrect Cookie banners, inaccurate Consent Paths and more.&lt;/p>
+&lt;p>That harms the DPO and those who use the products. DPOs must know about the products, technical setup and developments, but they must also work with legal, marketing, engineering teams and data scientists.&lt;/p>
+&lt;p>Big problems require big solutions, so we are working on &lt;strong>our Privacy Deck&lt;/strong>: tools that help DPOs quickly know the reality of their products and whole teams working across departments to raise responsibility and transparency to transfer the results to customers confidently.&lt;/p>
+&lt;p>Here’s a summary of how these tools can transform your daily life as a Data Protection Officer:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>CMP Analyser&lt;/strong>: When you land on a webpage, you see a banner that asks you for consent. That banner must be accurate, and accepting or declining must make a difference. With this tool, you can test that accuracy and respect to the user. If you are in charge of the site’s data protection, you can use it to rectify any errors.&lt;/li>
+&lt;li>&lt;strong>MarTech Atlas&lt;/strong>: Using CMP Analyzer, we could show the names of the cookies and expect you to understand them without context, but we don’t do things like that. With this tool, we have a database of the cookies, their vendor and their purpose. A DPO can automatically know which data the organisation uses in reality and how it uses it.&lt;/li>
+&lt;li>&lt;strong>Play Data Officer&lt;/strong>: Data doesn’t have to be boring. That’s why we also created this dashboard with two main sections to see and interact with the information:
+&lt;ul>
+&lt;li>&lt;strong>Consent Explorer&lt;/strong>: A view that categorises cookies by the stages at which they appear, followed by some metrics about accuracy, consistency,&amp;hellip; It also offers the option to edit the information if needed.&lt;/li>
+&lt;li>&lt;strong>ePrivacy Hub&lt;/strong>: A view with a summary of the metrics from the last analysis of cookies. It lets you compare the current results with the last one.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>eStress Tests&lt;/strong>: With all the information above, we generate a comprehensive examination that includes checking for trackers, calls to third-party services and other potential privacy risks. Besides, it provides valuable feedback highlighting areas where a DPO can improve user data protection.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;img src="https://anuskuskus.me/p/dpo-daily-challenges-solutions-for-success/1.jpg"
+width="800"
+height="450"
+srcset="https://anuskuskus.me/p/dpo-daily-challenges-solutions-for-success/1_hu9298121151347260077.jpg 480w, https://anuskuskus.me/p/dpo-daily-challenges-solutions-for-success/1_hu14668313511903678585.jpg 1024w"
+loading="lazy"
+alt="Schema of our pirvacy deck"
+class="gallery-image"
+data-flex-grow="177"
+data-flex-basis="426px"
+>&lt;/p>
+&lt;hr>
+&lt;blockquote>
+&lt;p>Original post on LinkedIn &lt;a class="link" href="https://www.linkedin.com/feed/update/urn:li:activity:7122875319081926656?utm_source=share&amp;amp;utm_medium=member_desktop" target="_blank" rel="noopener"
+>here&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Image by Empathy.co branding&lt;/p>
+&lt;/blockquote></description></item><item><title>How can you know if a website is respecting your consent preferences?</title><link>https://anuskuskus.me/p/how-can-you-know-if-a-website-is-respecting-your-consent-preferences/</link><pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate><guid>https://anuskuskus.me/p/how-can-you-know-if-a-website-is-respecting-your-consent-preferences/</guid><description>&lt;p>Websites will use different cookies to let us access their contents depending on our CMP (or cookie banner) choices. In other words, we will follow a different path to explore the page based on our consent choice. We will follow a different Consent Path.&lt;/p>
+&lt;p>Categorizing cookies can be challenging since there is no standard classification. However, the most common categorization is the one that separates them based on their origin:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>First-party cookies&lt;/strong>: Cookies generated by the website you are visiting.&lt;/li>
+&lt;li>&lt;strong>Third-party cookies&lt;/strong>: Cookies generated by another vendor, like an advertiser or an analytic system.&lt;/li>
+&lt;/ul>
+&lt;p>But if we want to know if a cookie respects user consent, we can’t just use this categorization, as not all cookies from third-party vendors, for example, have the same purpose and respect the same user consent.&lt;/p>
+&lt;p>So, at Empathy.co, we decided to create the following categories that we use in tools like &lt;a class="link" href="https://www.linkedin.com/feed/update/urn:li:activity:7095702424358678528?utm_source=share&amp;amp;utm_medium=member_desktop" target="_blank" rel="noopener"
+>CMP Analyzer&lt;/a> or &lt;a class="link" href="https://www.linkedin.com/feed/update/urn:li:activity:7098231672646569984/?utm_source=share&amp;amp;utm_medium=member_desktop" target="_blank" rel="noopener"
+>MarTech Atlas&lt;/a>:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Technical cookies&lt;/strong>: Cookies that are strictly necessary for a website to work.&lt;/li>
+&lt;li>&lt;strong>Analytics cookies&lt;/strong>: Cookies that collect information and statistics on the usage of a website and how effective marketing campaigns are.&lt;/li>
+&lt;li>&lt;strong>Marketing cookies&lt;/strong>: Cookies that create user profiles or track users across several websites. They aim to make ads more relevant to users.&lt;/li>
+&lt;li>&lt;strong>Personalization cookies&lt;/strong>: Cookies that store user choices and personalize a website according to them.&lt;/li>
+&lt;/ul>
+&lt;p>Depending on the Consent Path we are, we should only be served the correct cookies:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>We accept all cookies&lt;/strong>: The website will use all categories of cookies from first-party or any third-party.&lt;/li>
+&lt;li>&lt;strong>We reject all cookies&lt;/strong>: The website will use the necessary cookies. Those are just technical cookies coming from the first-party vendor.&lt;/li>
+&lt;li>&lt;strong>We accept just some cookies&lt;/strong>: Depending on our choices, we will get just the accepted cookies and the necessary cookies explained before. For example, let’s give consent to the website to use personalization cookies. In that case, we will follow the Personalization Consent Path and be served the necessary first-party cookies and personalization first or third-party cookies.&lt;/li>
+&lt;li>&lt;strong>We have not accepted or rejected anything&lt;/strong>: This is a particular part of the experience. If the user has not consented, just the necessary cookies explained in the ‘reject all cookies’ section should be used.&lt;/li>
+&lt;/ul>
+&lt;p>To understand the cookies that a webpage should serve and ensure that our choices are respected, we need to consider the different paths of consent and types of cookies. The attached table summarizes this knowledge. Information is power, they say.&lt;/p>
+&lt;p>&lt;img src="https://anuskuskus.me/p/how-can-you-know-if-a-website-is-respecting-your-consent-preferences/1.jpg"
+width="1000"
+height="522"
+srcset="https://anuskuskus.me/p/how-can-you-know-if-a-website-is-respecting-your-consent-preferences/1_hu8877896182639859160.jpg 480w, https://anuskuskus.me/p/how-can-you-know-if-a-website-is-respecting-your-consent-preferences/1_hu14802515974339439721.jpg 1024w"
+loading="lazy"
+alt="Table with a summary of cookie combination"
+class="gallery-image"
+data-flex-grow="191"
+data-flex-basis="459px"
+>&lt;/p>
+&lt;hr>
+&lt;blockquote>
+&lt;p>Original post on LinkedIn &lt;a class="link" href="https://www.linkedin.com/feed/update/urn:li:activity:7100766916549484544?utm_source=share&amp;amp;utm_medium=member_desktop" target="_blank" rel="noopener"
+>here&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Image by Empathy.co branding&lt;/p>
+&lt;/blockquote></description></item><item><title>Should you trust the e-commerce sites you visit?</title><link>https://anuskuskus.me/p/should-you-trust-the-e-commerce-sites-you-visit/</link><pubDate>Mon, 04 Sep 2023 00:00:00 +0000</pubDate><guid>https://anuskuskus.me/p/should-you-trust-the-e-commerce-sites-you-visit/</guid><description>&lt;p>My name is Ana, I am 24 years old, and if you ask anyone, they will tell you that I grew up in the technological age. It has always been a passion of mine, and I have owned a computer since I was eight years old. As a result, I have studied Computer Engineering and I am currently working in the technology industry. Therefore, I have studied my digital rights and have learned how to respect them. I feel confident on the internet… Or at least, I felt confident.&lt;/p>
+&lt;p>We have all heard about cookies. They are pieces of data that are stored on a website. They could store ‘harmless’ data, such as your username when you log into your account, or delicate data, such as your full name. All websites use them, like e-commerce sites, and thanks to current privacy concerns, we have laws like GDPR that require websites to warn us about their use of cookies and give us the option of accepting, rejecting, or accepting only part of them.&lt;/p>
+&lt;p>So, you feel that you have control over your data. Why shouldn’t you trust the e-commerce site you visit? They are following the law and providing you the option to choose. However, this option is meaningless if the information provided by the website is incorrect. If they are not going to respect your decision. If they are going to disguise invasive cookies into harmless ones. Whether on intention or not.&lt;/p>
+&lt;p>I recently discovered that the data consent banners we see on the websites are inaccurate.&lt;/p>
+&lt;p>I have also lately discovered that some of the cookies we allow produce other cookies that are intrusive and do not need to be accepted in order to steal our data.&lt;/p>
+&lt;p>And I also recently discovered that some companies are attempting to hide cookies into other ones.&lt;/p>
+&lt;p>Is your data worth the misinformation? Is your data more valuable than you? No, I don&amp;rsquo;t believe so. We must enforce data respect and develop tools to determine whether or not we are being respected. You have the right to know what your personal information is being used for.&lt;/p>
+&lt;p>That is why, at &lt;a class="link" href="empathy.co" >Empathy.co&lt;/a>, we ventured on an ambitious program: Open Innovation in Privacy. On this program, we are developing those tools, and will soon begin showing them to the world. If you&amp;rsquo;d like to learn more about these new technologies, please visit our website at &lt;a class="link" href="https://oi.empathy.co/#open-privacy" target="_blank" rel="noopener"
+>oi.empathy.co&lt;/a> (it&amp;rsquo;s cookie-free!) and keep you informed by following us on LinkedIn.&lt;/p>
+&lt;p>If I, as a technical person, can’t figure out if I’m being respected… How could a non-technical user do it?&lt;/p>
+&lt;h3>Source&lt;/h3>
+&lt;p>&lt;a class="link" href="https://lnkd.in/dsmjkm4z" target="_blank" rel="noopener"
+>Beyond the front page&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://anuskuskus.me/p/should-you-trust-the-e-commerce-sites-you-visit/1.jpg"
+width="500"
+height="495"
+srcset="https://anuskuskus.me/p/should-you-trust-the-e-commerce-sites-you-visit/1_hu7158730889245131017.jpg 480w, https://anuskuskus.me/p/should-you-trust-the-e-commerce-sites-you-visit/1_hu16996462294193782574.jpg 1024w"
+loading="lazy"
+alt="Open Innovation in Privacy branding"
+class="gallery-image"
+data-flex-grow="101"
+data-flex-basis="242px"
+>&lt;/p>
+&lt;hr>
+&lt;blockquote>
+&lt;p>Original post on LinkedIn &lt;a class="link" href="https://www.linkedin.com/feed/update/urn:li:activity:7093155987322286080?utm_source=share&amp;amp;utm_medium=member_desktop" target="_blank" rel="noopener"
+>here&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Image by Empathy.co branding&lt;/p>
+&lt;/blockquote></description></item></channel></rss>

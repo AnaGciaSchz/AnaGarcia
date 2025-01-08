@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Ana García's Space</title><link>https://anuskuskus.me/page/</link><description>Recent content in Pages on Ana García's Space</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://anuskuskus.me/page/index.xml" rel="self" type="application/rss+xml"/><item><title>About me</title><link>https://anuskuskus.me/about-me/</link><pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate><guid>https://anuskuskus.me/about-me/</guid><description>&lt;p>Hi, I’m Ana! 👋&lt;/p>
+&lt;p>I’m a creative Computer Science Engineer turned into a DevRel enthusiast, blending my love for technology and people into a career I’m truly passionate about. Based in the beautiful city of Gijón, Asturias (a place I adore!), my journey began while completing my studies at &lt;a class="link" href="https://ingenieriainformatica.uniovi.es/" target="_blank" rel="noopener"
+>The School of Computer Engineering&lt;/a> at the University of Oviedo.&lt;/p>
+&lt;p>Throughout my student years, I gained invaluable experience as a student representative, sharpening my teamwork, communication, and problem-solving skills. These experiences shaped me into a developer who thrives on collaboration, innovation, and engaging with others—qualities that are often rare in our field.&lt;/p>
+&lt;p>What sets me apart is my unique balance between technical expertise and public speaking. I genuinely enjoy diving deep into code as much as I love sharing insights, connecting with the community, and telling stories. That’s why I created this page—it’s not just a portfolio but also a space to share my thoughts, experiences, and tips in the blog section.&lt;/p>
+&lt;p>Welcome to my corner of the web! 🌟&lt;/p>
+&lt;p>&lt;img src="https://anuskuskus.me/about-me/1.jpg"
+width="499"
+height="333"
+srcset="https://anuskuskus.me/about-me/1_hu9537410132865071843.jpg 480w, https://anuskuskus.me/about-me/1_hu972153981622433143.jpg 1024w"
+loading="lazy"
+alt="Photo taken during ShuttleCon Third edition"
+class="gallery-image"
+data-flex-grow="149"
+data-flex-basis="359px"
+>&lt;/p>
+&lt;h3>Student Representation&lt;/h3>
+&lt;p>My professional journey wouldn’t be complete without highlighting my time in Student Representation. Those years were transformative, pushing me to achieve things I never imagined—organizing events, traveling, launching new initiatives, managing diverse teams, and even mentoring incoming students.&lt;/p>
+&lt;p>I had the honor of being elected president of several university organizations and serving on the board of directors of&lt;a class="link" href="https://ritsi.org/" target="_blank" rel="noopener"
+>RITSI&lt;/a> during my final year—a national student representation organization. Though my formal role has ended, I still enjoy contributing by giving talks and supporting projects whenever I can.&lt;/p>
+&lt;p>These experiences not only shaped my skills and perspective but also brought me lifelong friendships—and one very special relationship! I now share my life with an amazing partner and our adorable cat, Tortitas (Spanish for Pancakes 😉).&lt;/p>
+&lt;p>&lt;img src="https://anuskuskus.me/about-me/2.jpg"
+width="500"
+height="667"
+srcset="https://anuskuskus.me/about-me/2_hu7088954035963076017.jpg 480w, https://anuskuskus.me/about-me/2_hu5370198567174698665.jpg 1024w"
+loading="lazy"
+alt="Selfie with Tortitas while editing a video"
+class="gallery-image"
+data-flex-grow="74"
+data-flex-basis="179px"
+>&lt;/p>
+&lt;h3>Projects&lt;/h3>
+&lt;p>I’ve had the opportunity to work on a diverse range of projects using various programming languages and technologies. At work, my go-to language is Java, but my portfolio spans much more:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Final Degree Project&lt;/strong>: I built a &lt;a class="link" href="https://github.com/AnaGciaSchz/Heritage" target="_blank" rel="noopener"
+>full-stack web application&lt;/a> using JavaScript, handling both the frontend and backend development. I also designed the site and drew the logo.&lt;/li>
+&lt;li>&lt;strong>Academic Projects&lt;/strong>: During my studies, I worked extensively with Python and C#, honing my problem-solving and programming skills.&lt;/li>
+&lt;li>&lt;strong>Server and DevOps Experience&lt;/strong>: While collaborating with &lt;a class="link" href="https://ritsi.org/" target="_blank" rel="noopener"
+>RITSI&lt;/a>, I managed servers and worked with technologies like PHP, WordPress, and Docker.&lt;/li>
+&lt;li>&lt;strong>Collaborative Projects&lt;/strong>: I also contributed to two team projects using &lt;a class="link" href="https://solid.mit.edu/" target="_blank" rel="noopener"
+>SOLID&lt;/a>, exploring the future of decentralized data ownership.&lt;/li>
+&lt;/ul>
+&lt;h4>Recent Highlights&lt;/h4>
+&lt;p>One of my most exciting recent projects involved Docker. My goal was to encapsulate the &lt;a class="link" href="https://docs.empathy.co/" target="_blank" rel="noopener"
+>Empathy Platform&lt;/a> earch product into a Docker container, creating a streamlined setup that allowed users to get a working version up and running within minutes.&lt;/p>
+&lt;p>This project wasn’t just about technical implementation—I also focused on making the solution user-friendly by enabling easy customization and providing comprehensive resources like documentation and tutorials. The result? The &lt;a class="link" href="https://docs.empathy.co/understand-empathy-platform/about-empathy-platform/self-managed-components-overview.html" target="_blank" rel="noopener"
+>Empathy Self-Managed Components&lt;/a>. You can check out the code &lt;a class="link" href="https://github.com/empathyco/empathy-self-managed-components" target="_blank" rel="noopener"
+>here&lt;/a>&lt;/p>
+&lt;p>&lt;img src="https://anuskuskus.me/about-me/4.jpg"
+width="500"
+height="667"
+srcset="https://anuskuskus.me/about-me/4_hu11124466414652056707.jpg 480w, https://anuskuskus.me/about-me/4_hu70648787539489938.jpg 1024w"
+loading="lazy"
+alt="Photo while recording a SMC tutorial"
+class="gallery-image"
+data-flex-grow="74"
+data-flex-basis="179px"
+>&lt;/p>
+&lt;h3>Software Engineering and DevRel&lt;/h3>
+&lt;p>My career began as a Backend Engineer, starting with an internship and quickly growing by diving deep into the product. I progressed from creating demos to joining the search team, eventually setting up new clients independently. Throughout this time, my passion for public speaking and documentation was evident, and when I delivered my first international talk, I realized I had found my calling.&lt;/p>
+&lt;p>I continued to refine my skills, focusing on privacy research and collaborating with my teammates to shape &lt;a class="link" href="https://visibleprivacy.com/" target="_blank" rel="noopener"
+>Visible Privacy&lt;/a>. This experience broadened my perspective and further fueled my drive to connect technology with people.&lt;/p>
+&lt;p>All of this work led to a pivotal moment: becoming the company’s first DevRel. In this role, I’ve embraced a variety of responsibilities, from generating content and developing marketing strategies to leading projects and editing videos. Each challenge has been an opportunity to grow—and I’m excited to see what’s next on this incredible journey!&lt;/p>
+&lt;h3>Hobbies&lt;/h3>
+&lt;p>I’m currently taking theatre classes, and I’ve had the opportunity to work on three productions so far. Recently, I even landed a role in a professional theatre representation as an actress—an experience that has been both challenging and rewarding.&lt;/p>
+&lt;p>In my free time, I enjoy painting, a hobby I’ve recently picked up again, and coding personal projects just for fun. I’ve also started going to the gym regularly, and one of my proudest recent achievements is overcoming my fear of riding a bike!&lt;/p>
+&lt;p>When I’m not busy with these activities, you can usually find me taking long walks, exploring cozy cafés, or catching up with friends. I also used to play role-playing games and still have a fondness for those creative adventures.&lt;/p>
+&lt;p>&lt;img src="https://anuskuskus.me/about-me/3.jpg"
+width="500"
+height="667"
+srcset="https://anuskuskus.me/about-me/3_hu1282999806924813711.jpg 480w, https://anuskuskus.me/about-me/3_hu7859761439702887585.jpg 1024w"
+loading="lazy"
+alt="One of my recent paintings!"
+class="gallery-image"
+data-flex-grow="74"
+data-flex-basis="179px"
+>&lt;/p>
+&lt;h3>What is 'anuskuskus'?&lt;/h3>
+&lt;p>It’s my nickname! One of my favorite teachers gave it to me back in school, and it stuck. Over time, I started using it for my social media accounts, and now some people even call me that in real life. My boyfriend thought it was unique enough to buy this domain for me—so why not embrace it?&lt;/p>
+&lt;p>Fun fact: Sometimes, websites flag it as containing bad words (I promise it’s harmless!), so I have to settle for using &amp;lsquo;kuskus&amp;rsquo; instead. Life of a quirky nickname, I guess! :&amp;rsquo;)&lt;/p>
+&lt;h3>How to contact me&lt;/h3>
+&lt;p>If you’d like to reach out, &lt;a class="link" href="https://www.linkedin.com/in/anagciaschz/" target="_blank" rel="noopener"
+>LinkedIn&lt;/a> is a great place to connect! Whether you’re curious about a project, have a question, or just want to chat, I’d be happy to hear from you.&lt;/p>
+&lt;p>Feel free to reach out in Spanish or English. Or even Asturian if you’d like to give it a try!&lt;/p></description></item><item><title>My talks</title><link>https://anuskuskus.me/my-talks/</link><pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate><guid>https://anuskuskus.me/my-talks/</guid><description>&lt;p>I love giving talks at events! Some of them are even recorded and shared online. Here are a few of my favorites (though not all of them!).&lt;/p>
+&lt;p>&lt;img src="https://anuskuskus.me/my-talks/1.jpg"
+width="500"
+height="295"
+srcset="https://anuskuskus.me/my-talks/1_hu3095386622970307890.jpg 480w, https://anuskuskus.me/my-talks/1_hu168084218578055251.jpg 1024w"
+loading="lazy"
+alt="Photo taken during my participation in EII Tech Fest 2023"
+class="gallery-image"
+data-flex-grow="169"
+data-flex-basis="406px"
+>&lt;/p>
+&lt;h3>Relevance is not a Thing but a Perception&lt;/h3>
+&lt;p>When talking about relevance regarding search, it often sounds like it is a thing, something that can be touched and seen. Nevertheless, that is not the case. What do I mean by that? In this talk, I will provide some examples of how relevance is often merely seen as a score when it can be, in fact, an engaging relationship where the user and the search UI connect in aesthetic and enjoyable ways. I will present numerous examples of innovative search experiences that challenge prevailing schemas and structures and lead instead to elements of motion and correlated visual action that allows us to perceive the beauty of relevancy on a different level. Because relevance is a matter of perception.&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/9yDeMlis7ns"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h3>A different way of thinking: non-technical introduction to DSLs&lt;/h3>
+&lt;p>On this talk I explain how to solve a problem using a DSL. I also introduce the public about what a DSL is.&lt;/p>
+&lt;p>You can see my talk at 1:08:36&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/BfuziKnXfk8"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h3>Ethics, Data, Experiences - Bridging the gap between innovation and responsibility&lt;/h3>
+&lt;p>We claim that there is a gap between technical curiosity and ethical boundaries. Technically and intellectually, using statistical models to infer human behaviour poses interesting challenges. They can provide insightful inferences, and the fast-paced development leads to rapid increase in use-cases.&lt;/p>
+&lt;p>You can see the recording on the &lt;a class="link" href="https://www.ethicalalliance.co/conference-speakers/ana-garcia" target="_blank" rel="noopener"
+>ECA Summit page&lt;/a>&lt;/p>
+&lt;h3>Self-Managed Components&lt;/h3>
+&lt;p>After completing the [Self-Managed Components] project, I had the opportunity to present it during a LinkedIn Live session. First, I introduced the concept of SMC, focusing on its privacy aspects, and later, I did a live demo to showcase how it works.&lt;/p>
+&lt;p>You can watch the two recordings here:&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.youtube.com/watch?v=gjBRAN5SWMs" target="_blank" rel="noopener"
+>Private, Compliant Self-Managed Components&lt;/a> – I talk about the idea and its connection to privacy.&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.youtube.com/watch?v=qHIty1hsl6k&amp;amp;t=2s" target="_blank" rel="noopener"
+>Setting up Search with Self-Managed Components&lt;/a> – A hands-on demo of the project in action.&lt;/li>
+&lt;/ul>
+&lt;p>By the way, did you notice the editing? That was all me! 😄&lt;/p>
+&lt;h3>Interviews&lt;/h3>
+&lt;p>I’m not just about giving talks at events—I can also be an interviewer! While this isn’t my first interview, it’s the one I prepared entirely from scratch for an event I organized alone, and I’m really proud of it. Everyone had a great time, and people even asked if I was a journalist because I seemed so professional! It was definitely a memorable day. 😊&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/0F1-mufc1wE"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div></description></item><item><title>Video Editing</title><link>https://anuskuskus.me/video-editing/</link><pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate><guid>https://anuskuskus.me/video-editing/</guid><description>&lt;p>As I mentioned in the &lt;a class="link" href="https://www.anuskuskus.me/about-me/" target="_blank" rel="noopener"
+>About me&lt;/a> section, I love editing videos. What started as a fun hobby has now evolved into a valuable skill, and some of my work is even shared on my company’s social media channels. It&amp;rsquo;s amazing how a hobby can turn into something useful! Here are a few of my creations:&lt;/p>
+&lt;h3>Linkedin Lives&lt;/h3>
+&lt;p>At Empathy, we regularly host LinkedIn Lives, and I wanted to improve the quality of the re-uploaded videos. So, I started editing them! You can find the edited versions on &lt;a class="link" href="https://www.youtube.com/@Empathyco_/videos" target="_blank" rel="noopener"
+>Empathy.co&amp;rsquo;s Youtube channel&lt;/a>. My very first edited video is this one—because, honestly, starting with ABBA is always a great choice:&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/JscBi4u62O0"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;p>I also generate shorts of the most interesting parts and upload them on &lt;a class="link" href="https://www.youtube.com/@Empathyco_/shorts" target="_blank" rel="noopener"
+>The Youtube channel&lt;/a>.&lt;/p>
+&lt;p>&lt;img src="https://anuskuskus.me/video-editing/1.jpg"
+width="499"
+height="479"
+srcset="https://anuskuskus.me/video-editing/1_hu14767364186239030855.jpg 480w, https://anuskuskus.me/video-editing/1_hu8162168247532229091.jpg 1024w"
+loading="lazy"
+alt="Screenshot of some LiL shorts"
+class="gallery-image"
+data-flex-grow="104"
+data-flex-basis="250px"
+>&lt;/p>
+&lt;h3>Youtube Videos&lt;/h3>
+&lt;p>I’ve appeared in a few YouTube videos, and what’s even more interesting is that I edited them myself! As a perfectionist, it’s something I’m still getting used to, but I’m definitely moving in the right direction!&lt;/p>
+&lt;p>My first ever professional edited video where I appear (I needed some help with it) is this one:&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/2rpiprsKInQ"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;p>I created the script and had to get used to speaking directly to the camera—something that took a bit of adjustment. Honestly, I still prefer live talks over pre-recorded ones!&lt;/p>
+&lt;h4>SMC&lt;/h4>
+&lt;p>I showed some videos I did about SMC in the &lt;a class="link" href="https://www.anuskuskus.me/my-talks/" target="_blank" rel="noopener"
+>My Talks&lt;/a> section, but I did some tutorials and exclusive videos too!&lt;/p>
+&lt;ul>
+&lt;li>&lt;a class="link" href="https://www.youtube.com/watch?v=_DUVB8KQ-LY" target="_blank" rel="noopener"
+>Empathy Platform Self-managed Components are Live!&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.youtube.com/watch?v=gYEC50SqI0A" target="_blank" rel="noopener"
+>Download, deploy, and enjoy SmC Tutorial&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.youtube.com/watch?v=DdBJk6zXhOk" target="_blank" rel="noopener"
+>How to Customize SmC Catalogs Tutorial&lt;/a>&lt;/li>
+&lt;li>&lt;a class="link" href="https://www.youtube.com/watch?v=CLeaLzolEJc" target="_blank" rel="noopener"
+>How to Customize SmC Search Experience Tutorial&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>The most fun part? Editing and uploading the bloopers to my YouTube channel! You can check them out here:&lt;/p>
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/tP_ri2tsTb4"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
+&lt;h3>Instagram Videos&lt;/h3>
+&lt;p>I recently started working in other social media accounts of the company, and of course, I edited some videos. &lt;a class="link" href="https://www.instagram.com/motivemarket.com_/" target="_blank" rel="noopener"
+>Here&lt;/a> you can find some of them. The shop interview series, the live draw for bikes, the interviews in the streets of Gijón&amp;hellip;&lt;/p>
+&lt;p>and I also worked on the editing of a awareness video for the account, designing the transitions and giving my &lt;a class="link" href="https://www.instagram.com/reel/DCwklHIsIwm/" target="_blank" rel="noopener"
+>own voice&lt;/a>.&lt;/p></description></item><item><title>Search</title><link>https://anuskuskus.me/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://anuskuskus.me/search/</guid><description/></item></channel></rss>
