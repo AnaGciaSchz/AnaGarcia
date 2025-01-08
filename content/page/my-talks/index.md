@@ -1,8 +1,8 @@
 ---
 title: "My talks"
 slug: "my-talks"
-description: A section where you can see videos of the talks I give in events
-lastmod: '2023-12-07'
+description: Here you can see some of the talks I gave in the past
+lastmod: '2025-01-08'
 menu:
     main:
         weight: 5
@@ -10,31 +10,19 @@ menu:
             icon: link
 ---
 
-I like participating in events, videos and giving talks; sometimes, those talks are recorded and uploaded on the internet, so I will put the links here so you can enjoy them. 
+I love giving talks at events! Some of them are even recorded and shared online. Here are a few of my favorites (though not all of them!).
 
-![Photo taken during my participation in EII Tech Fest 2023 (sadly, we lost the recording)](1.jpg)
+![Photo taken during my participation in EII Tech Fest 2023](1.jpg)
 
 <h3>Relevance is not a Thing but a Perception</h3>
 
-My first talk in a Tech event! I participated in Berlin Buzzwords 2022 edition and it was a pleasure.
-
-<h4>Description</h4>
-
 When talking about relevance regarding search, it often sounds like it is a thing, something that can be touched and seen. Nevertheless, that is not the case. What do I mean by that? In this talk, I will provide some examples of how relevance is often merely seen as a score when it can be, in fact, an engaging relationship where the user and the search UI connect in aesthetic and enjoyable ways. I will present numerous examples of innovative search experiences that challenge prevailing schemas and structures and lead instead to elements of motion and correlated visual action that allows us to perceive the beauty of relevancy on a different level. Because relevance is a matter of perception.
-
-<h4>Recording</h4>
 
 {{< youtube 9yDeMlis7ns >}}
 
 <h3>A different way of thinking: non-technical introduction to DSLs</h3>
 
-My talk at ShuttleCon First Edition
-
-<h4>Description</h4>
-
 On this talk I explain how to solve a problem using a DSL. I also introduce the public about what a DSL is.
-
-<h4>Recording</h4>
 
 You can see my talk at 1:08:36
 
@@ -42,14 +30,17 @@ You can see my talk at 1:08:36
 
 <h3>Ethics, Data, Experiences - Bridging the gap between innovation and responsibility</h3>
 
-I participated in the Ethics in eCommerce Summit in London 2023 - May 16th.
-
-Ramiro Álvarez, Andreas Wagemann and I prepared this short talk, and it was a fun challenge to work with people with different backgrounds than me!
-
-<h4>Description</h4>
-
 We claim that there is a gap between technical curiosity and ethical boundaries. Technically and intellectually, using statistical models to infer human behaviour poses interesting challenges. They can provide insightful inferences, and the fast-paced development leads to rapid increase in use-cases. 
 
-<h4>Recording</h4>
-
 You can see the recording on the [ECA Summit page](https://www.ethicalalliance.co/conference-speakers/ana-garcia)
+
+<h3>Self-Managed Components</h3>
+
+After completing the [Self-Managed Components] project, I had the opportunity to present it during a LinkedIn Live session. First, I introduced the concept of SMC, focusing on its privacy aspects, and later, I did a live demo to showcase how it works.
+
+You can watch the two recordings here:
+
+* [Private, Compliant Self-Managed Components](https://www.youtube.com/watch?v=gjBRAN5SWMs) – I talk about the idea and its connection to privacy.
+* [Setting up Search with Self-Managed Components](https://www.youtube.com/watch?v=qHIty1hsl6k&t=2s) – A hands-on demo of the project in action.
+
+ By the way, did you notice the editing? That was all me! 😄

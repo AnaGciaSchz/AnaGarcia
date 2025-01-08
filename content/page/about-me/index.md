@@ -2,7 +2,7 @@
 title: "About me"
 slug: "about-me"
 description: Do you want to know more about me? Here's your section!
-lastmod: '2023-12-07'
+lastmod: '2025-01-08'
 menu:
     main:
         weight: 4
