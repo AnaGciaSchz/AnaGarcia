@@ -1,6 +1,6 @@
 
 baseurl = "https://anuskuskus.me/"
-paginate = 5
+pagination.pagerSize = 5
 title = "Ana García's Space"
 
 defaultContentLanguage = "en"
