@@ -44,3 +44,9 @@ You can watch the two recordings here:
 * [Setting up Search with Self-Managed Components](https://www.youtube.com/watch?v=qHIty1hsl6k&t=2s) – A hands-on demo of the project in action.
 
  By the way, did you notice the editing? That was all me! 😄
+
+ <h3>Interviews</h3>
+
+I’m not just about giving talks at events—I can also be an interviewer! While this isn’t my first interview, it’s the one I prepared entirely from scratch for an event I organized alone, and I’m really proud of it. Everyone had a great time, and people even asked if I was a journalist because I seemed so professional! It was definitely a memorable day. 😊
+
+ {{< youtube 0F1-mufc1wE >}}
