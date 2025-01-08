@@ -2,8 +2,6 @@
 title: ShuttleCon Third Edition is today!
 description: We are preparing the office for the ShuttleCon
 date: "2023-11-30"
-categories:
-    - ShuttleCon
 tags:
     - organize events
     - shuttlecon third edition

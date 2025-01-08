@@ -2,9 +2,6 @@
 title: Should you trust the e-commerce sites you visit?
 description: I feel confident on the internet… Or at least, I felt confident.
 date: "2023-09-04"
-categories:
-    - Personal experiences
-    - Open Innovation in Privacy
 tags:
     - privacy
 ---

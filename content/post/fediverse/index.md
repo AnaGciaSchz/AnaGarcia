@@ -3,9 +3,6 @@ title: Discovering Fediverse
 description: A story about the Fediverse and alternatives to centralized social media
 date: "2023-11-20"
 image: cover.jpg
-categories:
-    - Personal experiences
-    - Tools
 tags:
     - privacy
     - personal opinion

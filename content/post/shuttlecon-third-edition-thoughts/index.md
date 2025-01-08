@@ -3,9 +3,6 @@ title: ShuttleCon Third Edition has finished
 description: The day has passed and I want to share some thoughst and one of the resources we used
 image: cover.jpg
 date: "2023-12-04"
-categories:
-    - ShuttleCon
-    - Personal experiences
 tags:
     - organize events
     - shuttlecon third edition

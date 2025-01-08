@@ -3,8 +3,6 @@ title: Cusdis, the privacy-first commenting system
 description: What is Cusdis? Why should I use it?
 date: "2024-01-18"
 image: cover.jpg
-categories:
-    - Tools
 tags:
     - recommendation
 ---

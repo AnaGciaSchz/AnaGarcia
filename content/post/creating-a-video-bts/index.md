@@ -3,9 +3,6 @@ title: Join me in Creating a Video for my Company
 description: How do I speak in videos? How is the process? Is there any tip?
 date: "2024-04-24"
 image: cover.jpg
-categories:
-    - Personal experiences
-    - Video
 tags:
     - recommendation
 ---

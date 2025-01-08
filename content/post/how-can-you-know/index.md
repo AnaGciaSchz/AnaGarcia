@@ -2,8 +2,6 @@
 title: How can you know if a website is respecting your consent preferences?
 description: It is easy to check if websites are respecting us.. but it is also tedious
 date: "2023-09-25"
-categories:
-    - Open Innovation in Privacy
 tags:
     - privacy
 ---

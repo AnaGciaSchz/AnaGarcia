@@ -3,9 +3,6 @@ title: DPO Daily Challenges, Solutions for Success
 description: Presentation of the Privacy Deck we are developing
 date: "2023-10-25"
 image: cover.jpg
-categories:
-    - Tools
-    - Open Innovation in Privacy
 tags:
     - privacy
 ---

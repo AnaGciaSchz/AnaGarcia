@@ -2,8 +2,6 @@
 title: ShuttleCon Third Edition BTS
 description: All youtube recordings and BTS video is available
 date: "2024-01-09"
-categories:
-    - ShuttleCon
 tags:
     - organize events
     - shuttlecon third edition

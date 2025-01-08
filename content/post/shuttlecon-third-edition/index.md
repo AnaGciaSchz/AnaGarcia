@@ -3,8 +3,6 @@ title: ShuttleCon Third Edition
 description: The ShuttleCon is here!
 date: "2023-11-24"
 image: cover.jpg
-categories:
-    - ShuttleCon
 tags:
     - organize events
     - shuttlecon third edition

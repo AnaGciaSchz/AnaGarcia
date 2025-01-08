@@ -3,8 +3,6 @@ title: Flippity as gamification tool
 description: I discovered a new tool to use
 date: "2023-11-13"
 image: cover.jpg
-categories:
-    - Tools
 tags:
     - recommendation
     - personal opinion

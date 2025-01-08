@@ -3,8 +3,6 @@ title: Starting to post
 description: Some thoughts about posting online as a women
 date: "2023-11-06"
 image: cover.jpg
-categories:
-    - Personal experiences
 tags:
     - personal opinion
 ---
