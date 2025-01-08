@@ -13,3 +13,11 @@ url = "https://www.linkedin.com/in/anagciaschz/"
 
 [social.params]
 icon = "brand-linkedin"
+
+[[social]]
+identifier = "youtube"
+name = "Youtube"
+url = "https://www.youtube.com/@anuskuskus"
+
+[social.params]
+icon = "brand-youtube"
